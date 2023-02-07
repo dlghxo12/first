@@ -22,7 +22,7 @@ public class DemoApplication {
         System.out.println("Hello Hell7");
         System.out.println("Hello Git Test");
         System.out.println("1ello Git Test5");
-        System.out.println("Hello Git Test4");
+        System.out.println("2ello Git Test4");
 
         SpringApplication.run(DemoApplication.class, args);
     }
