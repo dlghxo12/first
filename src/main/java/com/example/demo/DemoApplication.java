@@ -13,7 +13,7 @@ public class DemoApplication {
         System.out.println("Hello Hello");
         System.out.println("Hello Git Test");
         System.out.println("Hello Git Test2");
-        System.out.println("Hello Git Test3");
+        System.out.println("Hello Git Test4");
 
         SpringApplication.run(DemoApplication.class, args);
     }
