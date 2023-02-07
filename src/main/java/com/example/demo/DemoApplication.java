@@ -10,6 +10,7 @@ public class DemoApplication {
 
         System.out.println("Hello World");
         System.out.println("Hello 11111");
+        System.out.println("Hello Hello");
         System.out.println("Hello Git Test");
         System.out.println("Hello Git Test2");
         System.out.println("Hello Git Test3");
